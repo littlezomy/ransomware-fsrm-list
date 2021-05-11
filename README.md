@@ -1,2 +1,2 @@
 # ransomware-fsrm-list
-ransomware file extensions
+This a list of know ransomware file extensions listed by https://fsrm.experiant.ca and the list of associated text files.
